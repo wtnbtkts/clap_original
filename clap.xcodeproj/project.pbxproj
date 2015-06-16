@@ -14,8 +14,14 @@
 		A219325C1B2D40680037130E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A219325A1B2D40680037130E /* LaunchScreen.xib */; };
 		A21932681B2D40680037130E /* clapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A21932671B2D40680037130E /* clapTests.swift */; };
 		A21932721B2D408F0037130E /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A21932711B2D408F0037130E /* AVFoundation.framework */; };
-		A21932751B2D40C80037130E /* clap-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A21932731B2D40C80037130E /* clap-button.png */; };
-		A21932761B2D40C80037130E /* clap.wav in Resources */ = {isa = PBXBuildFile; fileRef = A21932741B2D40C80037130E /* clap.wav */; };
+		A24135B91B3079F400075D6A /* clap-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A24135B71B3079F400075D6A /* clap-button.png */; };
+		A24135BA1B3079F400075D6A /* clap.wav in Resources */ = {isa = PBXBuildFile; fileRef = A24135B81B3079F400075D6A /* clap.wav */; };
+		A24135BC1B307AB900075D6A /* usagi_hakusyu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A24135BB1B307AB900075D6A /* usagi_hakusyu.jpg */; };
+		A24135C11B307C0E00075D6A /* cat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24135BD1B307C0E00075D6A /* cat.mp3 */; };
+		A24135C21B307C0E00075D6A /* dog.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24135BE1B307C0E00075D6A /* dog.mp3 */; };
+		A24135C31B307C0E00075D6A /* rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24135BF1B307C0E00075D6A /* rain.mp3 */; };
+		A24135C41B307C0E00075D6A /* wave.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24135C01B307C0E00075D6A /* wave.mp3 */; };
+		A24135C61B3083C400075D6A /* answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A24135C51B3083C400075D6A /* answer.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,8 +46,14 @@
 		A21932661B2D40680037130E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A21932671B2D40680037130E /* clapTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clapTests.swift; sourceTree = "<group>"; };
 		A21932711B2D408F0037130E /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		A21932731B2D40C80037130E /* clap-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "clap-button.png"; path = "../../clap<課題用>/3_clap/clap-button.png"; sourceTree = "<group>"; };
-		A21932741B2D40C80037130E /* clap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = clap.wav; path = "../../clap<課題用>/3_clap/clap.wav"; sourceTree = "<group>"; };
+		A24135B71B3079F400075D6A /* clap-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clap-button.png"; sourceTree = "<group>"; };
+		A24135B81B3079F400075D6A /* clap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = clap.wav; sourceTree = "<group>"; };
+		A24135BB1B307AB900075D6A /* usagi_hakusyu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = usagi_hakusyu.jpg; sourceTree = "<group>"; };
+		A24135BD1B307C0E00075D6A /* cat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cat.mp3; sourceTree = "<group>"; };
+		A24135BE1B307C0E00075D6A /* dog.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog.mp3; sourceTree = "<group>"; };
+		A24135BF1B307C0E00075D6A /* rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rain.mp3; sourceTree = "<group>"; };
+		A24135C01B307C0E00075D6A /* wave.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wave.mp3; sourceTree = "<group>"; };
+		A24135C51B3083C400075D6A /* answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = answer.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,8 +102,14 @@
 				A21932551B2D40680037130E /* Main.storyboard */,
 				A21932581B2D40680037130E /* Images.xcassets */,
 				A219325A1B2D40680037130E /* LaunchScreen.xib */,
-				A21932731B2D40C80037130E /* clap-button.png */,
-				A21932741B2D40C80037130E /* clap.wav */,
+				A24135B71B3079F400075D6A /* clap-button.png */,
+				A24135B81B3079F400075D6A /* clap.wav */,
+				A24135BB1B307AB900075D6A /* usagi_hakusyu.jpg */,
+				A24135C51B3083C400075D6A /* answer.mp3 */,
+				A24135BD1B307C0E00075D6A /* cat.mp3 */,
+				A24135BE1B307C0E00075D6A /* dog.mp3 */,
+				A24135BF1B307C0E00075D6A /* rain.mp3 */,
+				A24135C01B307C0E00075D6A /* wave.mp3 */,
 				A219324F1B2D40680037130E /* Supporting Files */,
 			);
 			path = clap;
@@ -202,11 +220,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A21932761B2D40C80037130E /* clap.wav in Resources */,
+				A24135B91B3079F400075D6A /* clap-button.png in Resources */,
+				A24135C41B307C0E00075D6A /* wave.mp3 in Resources */,
+				A24135C61B3083C400075D6A /* answer.mp3 in Resources */,
 				A21932571B2D40680037130E /* Main.storyboard in Resources */,
+				A24135C31B307C0E00075D6A /* rain.mp3 in Resources */,
 				A219325C1B2D40680037130E /* LaunchScreen.xib in Resources */,
+				A24135BA1B3079F400075D6A /* clap.wav in Resources */,
+				A24135C11B307C0E00075D6A /* cat.mp3 in Resources */,
+				A24135BC1B307AB900075D6A /* usagi_hakusyu.jpg in Resources */,
 				A21932591B2D40680037130E /* Images.xcassets in Resources */,
-				A21932751B2D40C80037130E /* clap-button.png in Resources */,
+				A24135C21B307C0E00075D6A /* dog.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,6 +445,7 @@
 				A219326D1B2D40680037130E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A219326E1B2D40680037130E /* Build configuration list for PBXNativeTarget "clapTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +454,7 @@
 				A21932701B2D40680037130E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

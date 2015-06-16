@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BDF10DB-918E-42B7-BCEB-09EF17C7C8FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>clap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15B369DD06F5CDE881F2EA2890D67A50DBF50029</key>
+		<string>https://github.com/wtnbtkts/clap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>clap.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15B369DD06F5CDE881F2EA2890D67A50DBF50029</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wtnbtkts/clap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15B369DD06F5CDE881F2EA2890D67A50DBF50029</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15B369DD06F5CDE881F2EA2890D67A50DBF50029</string>
+			<key>IDESourceControlWCCName</key>
+			<string>clap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
